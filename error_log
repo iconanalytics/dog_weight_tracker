@@ -1,0 +1,188 @@
+[12-Jun-2021 22:07:10 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[12-Jun-2021 22:08:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/mystand6/public_html/petcalculator/wp-content/apps/users/output_fns.php:6) in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 41
+[12-Jun-2021 22:10:35 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[12-Jun-2021 22:11:45 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[12-Jun-2021 22:34:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[12-Jun-2021 22:35:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[13-Jun-2021 11:05:32 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[13-Jun-2021 11:05:32 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[13-Jun-2021 11:05:36 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[13-Jun-2021 11:05:36 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[13-Jun-2021 12:19:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[13-Jun-2021 12:20:18 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 09:22:35 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 10:17:39 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 11:24:17 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 11:24:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 11:24:30 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 11:24:35 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 11:24:51 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 13:15:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[14-Jun-2021 13:16:09 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[15-Jun-2021 11:24:19 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[15-Jun-2021 11:24:20 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[15-Jun-2021 11:24:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[15-Jun-2021 11:24:25 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[15-Jun-2021 13:04:51 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[15-Jun-2021 13:05:36 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[16-Jun-2021 11:45:55 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[16-Jun-2021 11:45:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[16-Jun-2021 11:45:59 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[16-Jun-2021 11:45:59 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[16-Jun-2021 14:14:45 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[16-Jun-2021 14:15:30 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[17-Jun-2021 11:35:39 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[17-Jun-2021 11:35:39 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[17-Jun-2021 11:35:52 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[17-Jun-2021 11:35:52 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[17-Jun-2021 12:15:54 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[17-Jun-2021 12:16:39 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[18-Jun-2021 11:34:32 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[18-Jun-2021 11:34:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[18-Jun-2021 11:34:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[18-Jun-2021 11:34:43 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[18-Jun-2021 11:35:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[18-Jun-2021 11:35:12 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[18-Jun-2021 14:59:18 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[18-Jun-2021 15:00:03 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[19-Jun-2021 23:52:36 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 11:49:43 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 11:49:43 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 11:49:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 11:49:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 11:49:54 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 11:49:57 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 11:50:02 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 11:50:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 13:32:32 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[22-Jun-2021 13:34:11 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[23-Jun-2021 11:50:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[23-Jun-2021 11:50:08 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[23-Jun-2021 11:50:09 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[23-Jun-2021 11:50:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[23-Jun-2021 11:50:27 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[23-Jun-2021 13:09:54 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[23-Jun-2021 13:11:33 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[24-Jun-2021 11:38:43 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[24-Jun-2021 11:38:44 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[24-Jun-2021 11:38:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[24-Jun-2021 11:38:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[24-Jun-2021 11:38:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[24-Jun-2021 11:39:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[24-Jun-2021 12:10:30 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[24-Jun-2021 12:12:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[25-Jun-2021 12:02:41 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[25-Jun-2021 12:02:41 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[25-Jun-2021 12:02:45 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[25-Jun-2021 12:02:45 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[25-Jun-2021 12:02:53 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[25-Jun-2021 12:03:12 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[25-Jun-2021 12:57:00 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[25-Jun-2021 12:58:39 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[26-Jun-2021 11:30:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[26-Jun-2021 11:30:37 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[26-Jun-2021 11:30:41 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[26-Jun-2021 11:30:41 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[26-Jun-2021 15:08:09 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[26-Jun-2021 15:09:47 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[27-Jun-2021 12:06:56 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[27-Jun-2021 12:08:53 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 10:12:13 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 10:13:42 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 10:14:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 11:45:00 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 11:45:01 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 11:45:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 11:45:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 12:08:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[28-Jun-2021 12:09:52 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 07:29:15 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 07:30:58 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 07:55:57 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:10:43 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:10:49 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:21:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:22:06 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:34:24 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:36:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:36:42 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:42:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 09:42:33 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 10:01:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 10:01:32 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 10:24:06 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 10:27:51 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[29-Jun-2021 10:28:42 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/member.php on line 127
+[07-Mar-2022 15:49:52 America/Boise] PHP Warning:  Undefined array key "email" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 6
+[07-Mar-2022 15:49:52 America/Boise] PHP Warning:  Undefined array key "passwd" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 7
+[07-Mar-2022 15:49:52 America/Boise] PHP Warning:  Undefined array key "passwd2" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 8
+[07-Mar-2022 16:43:18 America/Boise] PHP Warning:  Undefined array key "user_priv" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 6
+[07-Mar-2022 16:43:18 America/Boise] PHP Warning:  Undefined array key "dog_name" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 11
+[07-Mar-2022 16:43:18 America/Boise] PHP Warning:  Undefined array key "dog_breed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 12
+[07-Mar-2022 16:43:18 America/Boise] PHP Warning:  Undefined array key "dog_dob" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 13
+[07-Mar-2022 16:49:42 America/Boise] PHP Warning:  Undefined array key "new_weight" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_bms.php on line 6
+[07-Mar-2022 16:49:42 America/Boise] PHP Warning:  Undefined array key "date_weighed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_bms.php on line 7
+[10-Mar-2022 17:50:59 America/Boise] PHP Warning:  Undefined array key "valid_user" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/logout.php on line 6
+[15-Mar-2022 20:33:14 America/Boise] PHP Warning:  Undefined array key "email" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 6
+[15-Mar-2022 20:33:14 America/Boise] PHP Warning:  Undefined array key "passwd" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 7
+[15-Mar-2022 20:33:14 America/Boise] PHP Warning:  Undefined array key "passwd2" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 8
+[15-Mar-2022 20:51:31 America/Boise] PHP Warning:  Undefined array key "user_priv" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 6
+[15-Mar-2022 20:51:31 America/Boise] PHP Warning:  Undefined array key "dog_name" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 11
+[15-Mar-2022 20:51:31 America/Boise] PHP Warning:  Undefined array key "dog_breed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 12
+[15-Mar-2022 20:51:31 America/Boise] PHP Warning:  Undefined array key "dog_dob" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 13
+[15-Mar-2022 20:57:22 America/Boise] PHP Warning:  Undefined array key "new_weight" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_bms.php on line 6
+[15-Mar-2022 20:57:22 America/Boise] PHP Warning:  Undefined array key "date_weighed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_bms.php on line 7
+[16-Mar-2022 21:01:43 America/Boise] PHP Warning:  Undefined array key "email" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 6
+[16-Mar-2022 21:01:43 America/Boise] PHP Warning:  Undefined array key "passwd" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 7
+[16-Mar-2022 21:01:43 America/Boise] PHP Warning:  Undefined array key "passwd2" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/register_new.php on line 8
+[16-Mar-2022 21:39:39 America/Boise] PHP Warning:  Undefined array key "user_priv" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 6
+[16-Mar-2022 21:39:39 America/Boise] PHP Warning:  Undefined array key "dog_name" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 11
+[16-Mar-2022 21:39:39 America/Boise] PHP Warning:  Undefined array key "dog_breed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 12
+[16-Mar-2022 21:39:39 America/Boise] PHP Warning:  Undefined array key "dog_dob" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 13
+[16-Mar-2022 21:42:11 America/Boise] PHP Warning:  Undefined array key "new_weight" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_bms.php on line 6
+[16-Mar-2022 21:42:11 America/Boise] PHP Warning:  Undefined array key "date_weighed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_bms.php on line 7
+[17-Mar-2022 14:32:44 America/Boise] PHP Warning:  Undefined array key "dog_name" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 11
+[17-Mar-2022 14:32:44 America/Boise] PHP Warning:  Undefined array key "dog_breed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 12
+[17-Mar-2022 14:32:44 America/Boise] PHP Warning:  Undefined array key "dog_dob" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 13
+[17-Mar-2022 14:32:47 America/Boise] PHP Warning:  Undefined array key "user_priv" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 6
+[17-Mar-2022 14:32:47 America/Boise] PHP Warning:  Undefined array key "dog_name" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 11
+[17-Mar-2022 14:32:47 America/Boise] PHP Warning:  Undefined array key "dog_breed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 12
+[17-Mar-2022 14:32:47 America/Boise] PHP Warning:  Undefined array key "dog_dob" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 13
+[17-Mar-2022 14:33:09 America/Boise] PHP Warning:  Undefined array key "user_priv" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 6
+[17-Mar-2022 14:33:09 America/Boise] PHP Warning:  Undefined array key "dog_name" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 11
+[17-Mar-2022 14:33:09 America/Boise] PHP Warning:  Undefined array key "dog_breed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 12
+[17-Mar-2022 14:33:09 America/Boise] PHP Warning:  Undefined array key "dog_dob" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 13
+[17-Mar-2022 14:34:30 America/Boise] PHP Warning:  Undefined array key "user_priv" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 6
+[17-Mar-2022 14:34:30 America/Boise] PHP Warning:  Undefined array key "dog_name" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 11
+[17-Mar-2022 14:34:30 America/Boise] PHP Warning:  Undefined array key "dog_breed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 12
+[17-Mar-2022 14:34:30 America/Boise] PHP Warning:  Undefined array key "dog_dob" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 13
+[17-Mar-2022 14:38:07 America/Boise] PHP Warning:  Undefined array key "user_priv" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 6
+[17-Mar-2022 14:38:07 America/Boise] PHP Warning:  Undefined array key "dog_name" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 11
+[17-Mar-2022 14:38:07 America/Boise] PHP Warning:  Undefined array key "dog_breed" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 12
+[17-Mar-2022 14:38:07 America/Boise] PHP Warning:  Undefined array key "dog_dob" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/add_dog.php on line 13
+[20-Mar-2022 00:03:59 America/Boise] PHP Warning:  Undefined array key "valid_user" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/logout.php on line 6
+[20-Mar-2022 16:59:34 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[20-Mar-2022 16:59:34 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[20-Mar-2022 17:00:16 America/Boise] PHP Warning:  Undefined array key "dog_id_param" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 45
+[20-Mar-2022 17:00:16 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[20-Mar-2022 17:00:16 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[20-Mar-2022 17:01:10 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[20-Mar-2022 17:01:10 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[20-Mar-2022 17:01:47 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[20-Mar-2022 17:01:47 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[21-Mar-2022 12:49:39 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[21-Mar-2022 12:49:39 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[22-Mar-2022 19:01:40 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[22-Mar-2022 19:01:40 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[22-Mar-2022 19:03:42 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[22-Mar-2022 19:03:42 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[22-Mar-2022 19:03:58 America/Boise] PHP Warning:  Undefined array key "dog_id_param" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 45
+[22-Mar-2022 19:03:58 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[22-Mar-2022 19:03:58 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[23-Mar-2022 19:22:35 America/Boise] PHP Warning:  Undefined array key 0 in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 115
+[23-Mar-2022 19:22:35 America/Boise] PHP Warning:  Undefined array key "" in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 135
+[23-May-2022 09:15:25 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 16
+[23-May-2022 09:15:25 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 50
+[23-May-2022 09:15:25 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 16
+[23-May-2022 09:15:25 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 89
+[23-May-2022 09:15:25 America/Boise] PHP Warning:  main(): Couldn't fetch mysqli in /home2/mystand6/public_html/petcalculator/wp-content/apps/users/ajax_db.php on line 89
